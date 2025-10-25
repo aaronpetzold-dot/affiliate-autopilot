@@ -1,1 +1,15 @@
+{
+  "name": "affiliate-autopilot",
+  "version": "1.0.0",
+  "description": "AI affiliate autopilot system that posts to WordPress and shares via SocialBee automatically",
+  "main": "autopilot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node autopilot.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2"
+  }
+}
 
